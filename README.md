@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Default | POST Posts the user's review to Stellastra |
+| Default | Posts the users review to stellastra |
 
 ---
 
